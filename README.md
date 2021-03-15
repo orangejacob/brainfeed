@@ -1,4 +1,2 @@
 # brainfeed
-The website for new devs.
-
-New stuff coming soon!
+Offical source code of my GitHub Pages repo.

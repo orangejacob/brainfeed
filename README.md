@@ -1,4 +1,4 @@
 # brainfeed
 The website for new devs.
 
-New stuf coming soon!
+New stuff coming soon!
